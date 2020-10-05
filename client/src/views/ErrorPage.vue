@@ -4,7 +4,7 @@
   .quote-container.sentence
     | An error occured.
     br
-    | Please go to the 
+    | Please go to the
     a.is-text-primary.is-underlined(:href="webstoreLink") {{ webstoreText }}
     |  of the extension if this continues!
 </template>
