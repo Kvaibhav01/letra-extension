@@ -62,41 +62,57 @@
 
 Contributions, issues and feature requests are welcome!<br />
 
-Feel free to check the [issues page](https://github.com/jayehernandez/letra-extension/issues) for any open issues. If this is your first time contributing to Open Source, check out the [Contributing Guidelines](https://github.com/jayehernandez/letra-extension/blob/master/docs/how_to_contribute.md).
+Feel free to check the
+[issues page](https://github.com/jayehernandez/letra-extension/issues) for any
+open issues. If this is your first time contributing to Open Source, check out
+the
+[Contributing Guidelines](https://github.com/jayehernandez/letra-extension/blob/master/docs/how_to_contribute.md).
 
-You can also suggest a new feature by creating an Issue. Please wait for confirmation before working on it.
+You can also suggest a new feature by creating an Issue. Please wait for
+confirmation before working on it.
 
 ### Good for First Timers
 
-- [Add a learning quote](https://github.com/jayehernandez/letra-extension/blob/master/docs/new_quote.md) (Easiest way to contribute! 🚀)
+- [Add a learning quote](https://github.com/jayehernandez/letra-extension/blob/master/docs/new_quote.md)
+  (Easiest way to contribute! 🚀)
 - [Add a new language](https://github.com/jayehernandez/letra-extension/blob/master/docs/new_language.md)
 - Edit translations from existing languages - guide 🔜
 - [Help in getting 100% test coverage](https://github.com/jayehernandez/letra-extension/blob/master/docs/testing_guidelines.md)
 
 ### Installation
 
-Here's a [guide](https://github.com/jayehernandez/letra-extension/blob/master/docs/how_to_install.md) on how to install this Chrome extension on your local machine.
+Here's a
+[guide](https://github.com/jayehernandez/letra-extension/blob/master/docs/how_to_install.md)
+on how to install this Chrome extension on your local machine.
 
-**Note:** You don't need to do this if you're just doing some issues in the _Good for First Timers_ section above. But you're welcome to do so anyways!
+**Note:** You don't need to do this if you're just doing some issues in the
+_Good for First Timers_ section above. But you're welcome to do so anyways!
 
 ## 🙏🏻 Acknowledgements
 
-- Boilerplate Vue Extension from [Kocal's vue-web-extension](https://github.com/Kocal/vue-web-extension)
-- Text to Speech API from [ResponsiveVoice API](https://responsivevoice.org/api/)
+- Boilerplate Vue Extension from
+  [Kocal's vue-web-extension](https://github.com/Kocal/vue-web-extension)
+- Text to Speech API from
+  [ResponsiveVoice API](https://responsivevoice.org/api/)
 - Background Image API from [Unsplash](https://unsplash.com/developers)
-- Twitter Flag Emojis from [Twemoji Awesome](https://github.com/ellekasai/twemoji-awesome)
+- Twitter Flag Emojis from
+  [Twemoji Awesome](https://github.com/ellekasai/twemoji-awesome)
 - Icons from [Raj Dev](https://freeicons.io/profile/714)
 - [Vue Analytics](https://github.com/MatteoGabriele/vue-analytics)
-- README generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+- README generated with ❤️ by
+  [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
 Give a ⭐️ if this project helped you!
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people
+([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -223,11 +239,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the
+[all-contributors](https://github.com/all-contributors/all-contributors)
+specification. Contributions of any kind welcome!
 
 ## 📝 License
 
-Copyright © 2020 [Jaye Hernandez](https://github.com/jayehernandez).<br />
-This project is [MIT](https://github.com/jayehernandez/letra-extension/blob/master/LICENSE) licensed.
+Copyright © 2020 [Jaye Hernandez](https://github.com/jayehernandez).<br /> This
+project is
+[MIT](https://github.com/jayehernandez/letra-extension/blob/master/LICENSE)
+licensed.
